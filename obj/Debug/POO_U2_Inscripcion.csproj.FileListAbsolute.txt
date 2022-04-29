@@ -1,0 +1,8 @@
+C:\Users\eduar\source\repos\POO_U2_Inscripcion\POO_U2_Inscripcion\obj\Debug\POO_U2_Inscripcion.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\POO_U2_Inscripcion\POO_U2_Inscripcion\obj\Debug\POO_U2_Inscripcion.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\POO_U2_Inscripcion\POO_U2_Inscripcion\obj\Debug\POO_U2_Inscripcion.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\POO_U2_Inscripcion\POO_U2_Inscripcion\bin\Debug\POO_U2_Inscripcion.exe.config
+C:\Users\eduar\source\repos\POO_U2_Inscripcion\POO_U2_Inscripcion\bin\Debug\POO_U2_Inscripcion.exe
+C:\Users\eduar\source\repos\POO_U2_Inscripcion\POO_U2_Inscripcion\bin\Debug\POO_U2_Inscripcion.pdb
+C:\Users\eduar\source\repos\POO_U2_Inscripcion\POO_U2_Inscripcion\obj\Debug\POO_U2_Inscripcion.exe
+C:\Users\eduar\source\repos\POO_U2_Inscripcion\POO_U2_Inscripcion\obj\Debug\POO_U2_Inscripcion.pdb
